@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### 🌱 I’m currently learning how to start a business
+
 
 <!--
 **joeskan/joeskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

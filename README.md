@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-### 🌱 I’m currently learning how to start a business
+###
 
 
 <!--
